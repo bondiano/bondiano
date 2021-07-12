@@ -9,6 +9,8 @@
   <img align="left" alt="React" width="20px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="Node.js" width="20px" 
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+  <img align="left" alt="Node.js" width="20px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 ## Connect with me
@@ -17,6 +19,7 @@
 - [✉️ Email][email]
 
 ## My stats
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bondiano&theme=synthwave&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/b0ndiano
