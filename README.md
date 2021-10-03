@@ -18,6 +18,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 - [✉️ Email][email]
 
 [twitter]: https://twitter.com/b0ndiano
-[linkedin]: https://linkedin.com/in/m0rtyn
+[linkedin]: https://linkedin.com/in/bondiano/
 [telegram]: https://t.me/bondain0
 [email]: mailto:batbondik0@gmail.com
