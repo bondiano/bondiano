@@ -17,10 +17,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 - [🛩 Telegram][telegram]
 - [✉️ Email][email]
 
-## My stats
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bondiano&theme=synthwave&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
 [twitter]: https://twitter.com/b0ndiano
 [linkedin]: https://linkedin.com/in/m0rtyn
 [telegram]: https://t.me/bondain0
