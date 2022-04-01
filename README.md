@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Bondiano
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bondiano/) [![](https://www.codewars.com/users/bondiano/badges/micro)](https://www.codewars.com/users/bondiano) ![visitors](https://visitor-badge.glitch.me/badge?page_id=bondiano.bondiano)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bondiano/) [![](https://www.codewars.com/users/bondiano/badges/micro)](https://www.codewars.com/users/bondiano) ![visitors](https://visitor-badge.glitch.me/badge?page_id=bondiano.bondiano)
+[![wakatime](https://wakatime.com/badge/user/745dbe4b-a51e-4c9e-948d-cd7cc929f7ea.svg)](https://wakatime.com/@745dbe4b-a51e-4c9e-948d-cd7cc929f7ea)
 
 __Prefer__: 
 * <img align="left" alt="JavaScript" width="20px"
