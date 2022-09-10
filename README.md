@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2017/09/12/11/56/universe-2742113_1280.jpg" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! 👋 </h1>
 <p align='center'>
 
