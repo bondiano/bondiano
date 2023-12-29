@@ -14,14 +14,14 @@
 ### 🛠 &nbsp;Tech Stack &nbsp; 🧰
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,clojure,rust,godot,react,vue,nestjs,docker,postgres,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,clojure,rust,godot,react,vue,nestjs,postgres,docker,aws,vscode" />
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/bondisno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bondisno&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bondisno&layout=compact&langs_count=20&theme=algolia&hide=Jupyter%20Notebook"/>
+<a href="https://github.com/bondiano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bondiano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bondiano&layout=compact&langs_count=20&theme=algolia&hide=Jupyter%20Notebook"/>
 </a>
 </p>
