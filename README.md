@@ -1,9 +1,7 @@
 ### Hello Fellow < Developers/ >! 👋
 
-#### My name is Vassiliy. I'm a developer from Kazakhstan 🇰🇿. I'm currently working at DualBoot Partners as a Team Lead and as a Full Stack developer
+#### My name is Vassiliy. I'm a developer from Kazakhstan 🇰🇿.
 
-
-- 🔭 I’m currently working on Node.JS projects, mentoring devs/leads and executive in DualBoot Partners
 - 🌱 I’m currently learning Rust, Compilers, Clojure, Distributive services, Gamedev
 - 👯 I’m looking to collaborate on Meaningful Startups, Articles, Videos
 - 💬 Talk to me about JavaScript, TypeScript, Node.JS, Open Source
