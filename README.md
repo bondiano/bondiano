@@ -12,7 +12,7 @@
 ### 🛠 &nbsp;Tech Stack &nbsp; 🧰
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,clojure,rust,godot,react,vue,nestjs,postgres,docker,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,clojure,rust,golang,godot,react,vue,nestjs,postgres,docker,aws,neovim" />
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
