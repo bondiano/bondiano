@@ -14,12 +14,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,clojure,rust,golang,godot,react,vue,nestjs,postgres,docker,aws,neovim" />
 </p>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/bondiano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bondiano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bondiano&layout=compact&langs_count=20&theme=algolia&hide=Jupyter%20Notebook"/>
-</a>
-</p>
