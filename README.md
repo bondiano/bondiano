@@ -1,5 +1,5 @@
 ### Hello Fellow < Developers/ >! 👋
-
+<a href="https://mynickname.com/bondiano"><img src="https://mynickname.com/img.php?nick=bondiano&sert=26&text=t4" alt="My nickname is bondiano" /></a>
 #### My name is Vassiliy. I'm a developer from Kazakhstan 🇰🇿.
 
 - I’m currently learning Rust, Compilers, Distributive services
