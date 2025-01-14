@@ -10,5 +10,5 @@
 ### 🛠 &nbsp;Tech Stack &nbsp; 🧰
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,clojure,rust,golang,godot,react,vue,nestjs,postgres,docker,aws,neovim" />
+  <img src="https://skillicons.dev/icons?i=ts,rust,elixir,clojure,golang,godot,react,vue,nestjs,postgres,docker,aws,neovim" />
 </p>
